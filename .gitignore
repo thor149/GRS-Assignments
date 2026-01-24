@@ -1,0 +1,27 @@
+# Binaries
+program_a
+program_b
+*.o
+
+# Temporary files
+*.tmp
+
+# Helper scripts (not required for submission)
+fix_part_d_cpu.py
+update_part_d_cpu.sh
+MT25077_Part_C_Get_CPU.sh
+MT25077_Part_C_Manual_Test.sh
+
+# LaTeX files
+*.tex
+*.aux
+*.log
+
+# Other documentation
+COMPLETE_SUBMISSION_REQUIREMENTS.md
+AI_DECLARATION_FOR_REPORT.txt
+AI_USAGE_DECLARATION.md
+KEY_CONCEPTS_TO_UNDERSTAND.md
+REPORT_PREPARATION_GUIDE.md
+REPORT_TEMPLATE.md
+SUBMISSION_GUIDE.md

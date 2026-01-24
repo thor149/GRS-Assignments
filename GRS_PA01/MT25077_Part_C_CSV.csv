@@ -1,0 +1,7 @@
+Program+Function,CPU%,Memory(KB),IO(KB/s),Time(s)
+program_a+cpu,199,1920,10.37,32.93
+program_a+mem,197,3080,9.63,55.14
+program_a+io,44,1920,9.15,68.24
+program_b+cpu,199,2432,9.03,32.57
+program_b+mem,201,6416,8.91,40.11
+program_b+io,69,2176,8.81,47.88
