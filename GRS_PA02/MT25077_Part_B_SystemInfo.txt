@@ -1,0 +1,21 @@
+=== System Configuration ===
+Date: Mon Feb  9 03:21:35 PM IST 2026
+Kernel: 6.17.0-14-generic
+CPU:
+CPU(s):                                  16
+On-line CPU(s) list:                     0-15
+Model name:                              AMD Ryzen 7 7840HS w/ Radeon 780M Graphics
+BIOS Model name:                         AMD Ryzen 7 7840HS w/ Radeon 780M Graphics      Unknown CPU @ 3.8GHz
+Thread(s) per core:                      2
+Core(s) per socket:                      8
+Socket(s):                               1
+CPU(s) scaling MHz:                      65%
+CPU max MHz:                             5137.9038
+CPU min MHz:                             419.4210
+NUMA node0 CPU(s):                       0-15
+Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            14Gi       7.8Gi       3.2Gi       174Mi       3.8Gi       7.0Gi
+NIC (veth):
+19: veth-srv@if18: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP mode DEFAULT group default qlen 1000
+    link/ether be:4e:0d:57:3e:86 brd ff:ff:ff:ff:ff:ff link-netns ns_client
